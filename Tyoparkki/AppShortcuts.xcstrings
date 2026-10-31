@@ -1,0 +1,123 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "${applicationName} free spaces" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "${applicationName} tilanne"
+          }
+        }
+      }
+    },
+    "${applicationName} Hiekkaparkki" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "${applicationName} Hiekkaparkki",
+              "Check Hiekkaparkki in ${applicationName}"
+            ]
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "${applicationName} Hiekkaparkki"
+          }
+        }
+      }
+    },
+    "${applicationName} K1 and K2" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "${applicationName} K1 and K2",
+              "Check K1 and K2 in ${applicationName}"
+            ]
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "${applicationName} K1 ja K2"
+          }
+        }
+      }
+    },
+    "Check ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarkista ${applicationName}"
+          }
+        }
+      }
+    },
+    "Check Hiekkaparkki in ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarkista ${applicationName} Hiekkaparkki"
+          }
+        }
+      }
+    },
+    "Check K1 and K2 in ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tarkista ${applicationName} K1 ja K2"
+          }
+        }
+      }
+    },
+    "How many free spaces in ${applicationName}" : {
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringSet" : {
+            "state" : "new",
+            "values" : [
+              "How many free spaces in ${applicationName}",
+              "Check ${applicationName}",
+              "Show ${applicationName}",
+              "${applicationName} free spaces"
+            ]
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "needs_review",
+            "value" : "${applicationName} vapaat paikat"
+          }
+        }
+      }
+    },
+    "Show ${applicationName}" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Näytä ${applicationName}"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

@@ -1,0 +1,259 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%@": {
+      "shouldTranslate": false
+    },
+    "%lld free spaces": {
+      "localizations": {
+        "en": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld free space"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld free spaces"
+                }
+              }
+            }
+          }
+        },
+        "fi": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld vapaa paikka"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%lld vapaata paikkaa"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Check Hiekkaparkki": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarkista Hiekkaparkki"
+          }
+        }
+      }
+    },
+    "Check K1/K2": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarkista K1/K2"
+          }
+        }
+      }
+    },
+    "Check Parking Spaces": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tarkista vapaat paikat"
+          }
+        }
+      }
+    },
+    "Couldn't find K1/K2 or Hiekkaparkki in the data.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Tiedoista ei löytynyt K1/K2- tai Hiekkaparkki-alueita."
+          }
+        }
+      }
+    },
+    "Free spaces": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vapaat paikat"
+          }
+        }
+      }
+    },
+    "Free spaces in K1/K2 and Hiekkaparkki.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Vapaat paikat K1/K2-alueella ja Hiekkaparkissa."
+          }
+        }
+      }
+    },
+    "Hiekkaparkki": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Hiekkaparkki"
+          }
+        }
+      }
+    },
+    "K1 and K2": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "K1 ja K2"
+          }
+        }
+      }
+    },
+    "K1/K2": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "K1/K2"
+          }
+        }
+      }
+    },
+    "No data": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ei tietoja"
+          }
+        }
+      }
+    },
+    "No data yet": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Ei vielä tietoja"
+          }
+        }
+      }
+    },
+    "Open parkkimaksu.fi": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa parkkimaksu.fi"
+          }
+        }
+      }
+    },
+    "Open the app to check the setup.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Avaa sovellus ja tarkista asetukset."
+          }
+        }
+      }
+    },
+    "Parking spaces": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Parkkipaikat"
+          }
+        }
+      }
+    },
+    "Server responded with HTTP %lld.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Palvelin vastasi HTTP-koodilla %lld."
+          }
+        }
+      }
+    },
+    "Set the register plate in Settings → Apps → Työparkki.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Aseta rekisterinumero kohdassa Asetukset → Apit → Työparkki."
+          }
+        }
+      }
+    },
+    "Tells how many free spaces there are in Hiekkaparkki.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kertoo, montako vapaata paikkaa on Hiekkaparkissa."
+          }
+        }
+      }
+    },
+    "Tells how many free spaces there are in K1/K2 and Hiekkaparkki.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kertoo, montako vapaata paikkaa on K1/K2-alueella ja Hiekkaparkissa."
+          }
+        }
+      }
+    },
+    "Tells how many free spaces there are in K1/K2.": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Kertoo, montako vapaata paikkaa on K1/K2-alueella."
+          }
+        }
+      }
+    },
+    "Updated %@": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Päivitetty %@"
+          }
+        }
+      }
+    },
+    "no data": {
+      "localizations": {
+        "fi": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ei tietoja"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

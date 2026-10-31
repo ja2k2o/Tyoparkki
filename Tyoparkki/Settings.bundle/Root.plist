@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>StringsTable</key>
+	<string>Root</string>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>Title</key>
+			<string>Vehicle</string>
+			<key>FooterText</key>
+			<string>Enter the plate as shown on the car, for example ABC-123. Changes take effect the next time you open Työparkki or ask Siri.</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>Register plate</string>
+			<key>Key</key>
+			<string>plateText</string>
+			<key>AutocapitalizationType</key>
+			<string>AllCharacters</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+			<key>KeyboardType</key>
+			<string>Alphabet</string>
+		</dict>
+		<dict>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>Title</key>
+			<string>Country code</string>
+			<key>Key</key>
+			<string>plateCountry</string>
+			<key>DefaultValue</key>
+			<string>FIN</string>
+			<key>AutocapitalizationType</key>
+			<string>AllCharacters</string>
+			<key>AutocorrectionType</key>
+			<string>No</string>
+			<key>KeyboardType</key>
+			<string>Alphabet</string>
+		</dict>
+	</array>
+</dict>
+</plist>
