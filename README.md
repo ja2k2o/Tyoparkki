@@ -1,6 +1,6 @@
 # Työparkki
 
-A tiny iOS 26 app + widget (Home Screen and CarPlay) showing free spaces in** K1/K2** and **Hiekkaparkki** from https://parkkimaksu.fi/tila/ABC123-FIN.
+A tiny iOS 26 app + widget (Home Screen and CarPlay) showing free spaces in K1/K2 and Hiekkaparkki from https://parkkimaksu.fi/.
 Available in English and Finnish, with Siri support.
 
 ## 1. Open and sign
